@@ -33,7 +33,7 @@ System info
    OS: Arch Linux
    Uptime: up 7 hours, 43 minutes
    Processor model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
-   IP: 149.36.165.212
+   IP: 192.168.3.7
 ╚════════════════════════════════════════════════════════════════════════╝
  
 Calendar
