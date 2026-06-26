@@ -62,7 +62,7 @@ cat << 'EOF'
       \ | /
     '-.:::.-'
    -==::::::==- it's sunny outside
-    .-':::'-.
+    .-':::'-.      (or clear)
       / | \
        '
 EOF
