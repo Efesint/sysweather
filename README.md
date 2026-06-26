@@ -69,7 +69,21 @@ sudo emerge -av cowsay
 ~~~
 2.Internet connection
 
-## Disclaimer
+## Installation
+1. Download sysweather.sh
+~~~
+git clone https://github.com/Efesint/sysweather
+~~~
+2. Add script executable
+~~~
+chmod +x sysweather.sh
+~~~
+3. Run it
+```
+./sysweather.sh
+```
+
+## ⚠️Disclaimer
 
 I don't know Bash well; it's not my primary programming language. 
 I'm not a vibe coder, but I had to use AI.
