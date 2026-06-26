@@ -93,6 +93,6 @@ This project is a learning exercise, not production-ready software.
 But for casual use, I think it'll be quite usable. This is my second Bash project. 
 Thanks for reading.
 
-## about
+## cowsay
 This script uses cowsay (https://github.com/tnalpgge/rank-amateur-cowsay) 
 under GPL license.
