@@ -20,10 +20,6 @@ gcc sysweather.c -o sysweather -lcurl
 ```
 
 ## ⚠️Disclaimer
-
-I don't know Bash well; it's not my primary programming language. 
-I'm not a vibe coder, but I had to use AI
-(An AI wrote the if-else structure because I was way too lazy to spell out every possible weather scenario from the curl output.)
 I'm still learning Linux administration and Bash programming. 
 This project is a learning exercise, not production-ready software. 
 But for casual use, I think it'll be quite usable. This is my second Bash project. 
