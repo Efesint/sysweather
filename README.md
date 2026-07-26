@@ -20,7 +20,7 @@ gcc sysweather.c -o sysweather -lcurl
 ```
 
 ## ⚠️Disclaimer
-I'm still learning Linux administration and Bash programming. 
+I'm still learning Linux administration and cpp. 
 This project is a learning exercise, not production-ready software. 
 But for casual use, I think it'll be quite usable. This is my second Bash project. 
 Thanks for reading.
