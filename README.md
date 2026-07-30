@@ -3,7 +3,7 @@ display of weather, time, and system information
 ![sysweather in action](image.png)
 ## Requirements
 1.gcc 
-2.Internet connection
+<br>2.Internet connection
 
 ## Installation
 1. Download sysweather.sh
@@ -19,8 +19,11 @@ gcc sysweather.c -o sysweather -lcurl
 ./sysweather
 ```
 
+## First setup
+Write your town like 'Europe/Berlin'.
+
 ## ⚠️Disclaimer
-I'm still learning Linux administration and cpp. 
+I'm still learning Linux administration and c programming language. 
 This project is a learning exercise, not production-ready software. 
 But for casual use, I think it'll be quite usable. This is my second Bash project. 
 Thanks for reading.
