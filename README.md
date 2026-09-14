@@ -23,3 +23,5 @@ gcc sysweather.c -o sysweather -lcurl
 ## First setup
 Write your town like 'Europe/Berlin'.
 
+# LICENSE 
+This product is released under the GNU General Public License v3.0
