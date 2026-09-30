@@ -2,9 +2,9 @@
 display of weather, time, and system information
 ![sysweather in action](image.png)
 ## Requirements
-1.gcc 
+1.C Compiler
 <br>2.Internet connection
-
+<br> 3. libcurl
 
 ## Installation
 1. Download sysweather.sh
