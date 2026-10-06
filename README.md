@@ -4,12 +4,10 @@ Display the weather and system information.
 ## Requirements
 1.C Compiler
 
-
 2.`libcurl`
 
 
 3.Internet connection
-
 ## Installation
 
 1. Clone the repository
@@ -33,3 +31,8 @@ sudo install -m 755 sysweather /usr/local/bin/sysweather
 
 ## Enter the city
 Write your town like 'Europe/Berlin'.
+
+
+# LICENSE 
+This product is released under the GNU General Public License v3.0
+

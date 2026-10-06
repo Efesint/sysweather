@@ -167,7 +167,7 @@ void print_system_info()
     char hostname[256];
     gethostname(hostname, sizeof(hostname));
     
-    // IP через curl
+
     char *ip = curl_get("ipinfo.io/ip");
     
     printf("\nSystem info\n");
