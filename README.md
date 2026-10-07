@@ -1,27 +1,38 @@
 # sysweather
-display of weather, time, and system information
+Display the weather and system information.
 ![sysweather in action](image.png)
 ## Requirements
 1.C Compiler
-<br>2.Internet connection
-<br> 3. libcurl
 
+2.`libcurl`
+
+
+3.Internet connection
 ## Installation
-1. Download sysweather.sh
-~~~
+
+1. Clone the repository
+
+```sh
 git clone https://github.com/Efesint/sysweather
-~~~
-2. Compile the file
-~~~
-gcc sysweather.c -o sysweather -lcurl
-~~~
-3. Run it
-```
-./sysweather
+cd sysweather
 ```
 
-## First setup
+2. Compile the executable
+
+```sh
+gcc sysweather.c -o sysweather -lcurl
+```
+
+3. Install it
+
+```sh
+sudo install -m 755 sysweather /usr/local/bin/sysweather
+```
+
+## Enter the city
 Write your town like 'Europe/Berlin'.
+
 
 # LICENSE 
 This product is released under the GNU General Public License v3.0
+
